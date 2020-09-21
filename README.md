@@ -9,7 +9,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Oracle]( https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 - [Pearson](https://home.pearsonvue.com/)
 
-##Livros
+## Livros
 - [OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide](https://www.amazon.com.br/Oracle-Certified-Professional-Programmer-Study/dp/1119584701/ref=asc_df_1119584701/?tag=googleshopp00-20&linkCode=df0&hvadid=379726163686&hvpos=&hvnetw=g&hvrand=14143564571460691942&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-844213731096&psc=1)
 
 ## Cursos
