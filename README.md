@@ -26,3 +26,6 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
      - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section2/)
      - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section3/)
      - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course1/section4/)
+2. [Certificação Java SE 7 Programmer I: Tipos de Dados](https://cursos.alura.com.br/course/certificacao-java-tipos-de-dados)
+   - Aulas
+     - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section1/)
