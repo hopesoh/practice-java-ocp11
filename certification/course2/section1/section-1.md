@@ -35,7 +35,9 @@ Sempre que quero armazenar valores, eu armazeno em **variáveis**.
     boolean | único que não é numérico
 
     - todos os tipos são positivos ou negativos exceção de char
+    
         ![tamanhos](tamanhos.jpg)
+        
         - byte vai do -128 a +127
         - char é [0,+inf[
         - short e char tem o mesmo tamanho
