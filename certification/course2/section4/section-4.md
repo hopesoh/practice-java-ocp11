@@ -1,7 +1,6 @@
-#Ciclo de vida dos objetos
+# Ciclo de vida dos objetos
 
-
-##Três possíveis estágios:
+## Três possíveis estágios:
 - Novo objeto, referência
 - Não referênciado
 - Deixa de existir, jogado fora da memória
