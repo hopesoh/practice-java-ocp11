@@ -1,5 +1,6 @@
 #Ciclo de vida dos objetos
 
+
 ##Três possíveis estágios:
 - Novo objeto, referência
 - Não referênciado
