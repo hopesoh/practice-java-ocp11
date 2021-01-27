@@ -5,7 +5,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Enthuware](https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocp-java-11-exam-i-1z0-815)
 - [Whizlabs](https://www.whizlabs.com/ocpjd-java-se-11-programmer-i/)
 - [Formação Certificação Java da Alura](https://cursos.alura.com.br/formacao-certificacao-java)
-- [Cards e Quizes](https://testbanks.wiley.com/WPDACE/Login)
+- [Cards e Quizes](http://app.efficientlearning.com/my-account)
 - [Oracle](https://education.oracle.com/product/pexam_1Z0-819)
 - [Pearson](https://home.pearsonvue.com/)
 
