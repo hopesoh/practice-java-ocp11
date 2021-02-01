@@ -46,3 +46,10 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 6: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section6/section-6.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section6/)
   - 7: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section7/section-7.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course2/section7/)
 </details>
+
+<details>
+  <summary><b>Certificação Java SE 7 Programmer I: Operadores</b></summary>
+
+- [Aulas](https://cursos.alura.com.br/course/certificacao-java-operadores-decisao)
+  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/)
+</details>
