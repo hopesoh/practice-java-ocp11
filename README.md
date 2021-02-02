@@ -52,4 +52,5 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-operadores-decisao)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/)
+  - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section2/)
 </details>
