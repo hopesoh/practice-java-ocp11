@@ -15,8 +15,13 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Oracle Announces New Java OCP 11 Developer 1Z0-819 Exam](https://www.whizlabs.com/blog/oracle-announces-new-java-ocp-11-developer-1z0-819-exam/)
 
 ## Livros
-- [OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide](https://www.amazon.com.br/Oracle-Certified-Professional-Programmer-Study/dp/1119584701/ref=asc_df_1119584701/?tag=googleshopp00-20&linkCode=df0&hvadid=379726163686&hvpos=&hvnetw=g&hvrand=14143564571460691942&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-844213731096&psc=1)
-  - [Resumo](https://www.notion.so/Oracle-Certified-Professional-Java-SE-11-Programmer-I-c005b837bf774828b4f65c031872600c)
+<details>
+  <summary><b>OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide</b></summary>
+  
+- [Link do livro](https://www.notion.so/Oracle-Certified-Professional-Java-SE-11-Programmer-I-c005b837bf774828b4f65c031872600c)
+- [Resumo](https://www.amazon.com.br/Oracle-Certified-Professional-Programmer-Study/dp/1119584701/ref=asc_df_1119584701/?tag=googleshopp00-20&linkCode=df0&hvadid=379726163686&hvpos=&hvnetw=g&hvrand=14143564571460691942&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-844213731096&psc=1)
+</details>
+
 - [OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide](https://www.amazon.com.br/Oracle-Certified-Professional-Programmer-Study/dp/1119617626)
 - [OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817](https://www.amazon.com.br/Oracle-Certified-Professional-Developer-Complete/dp/1119619130)
 
@@ -54,5 +59,6 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section1/)
   - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section2/)
   - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section3/)
-  - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section4/)
+  - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section4/)
+  - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section5/)
 </details>
