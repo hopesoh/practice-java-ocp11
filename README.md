@@ -61,4 +61,5 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 6: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section6/section-6.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section6/)
   - 7: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section7/section-7.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section7/) **(14/20)**
   - 12: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section12/section-12.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section12/) **(3/5)**
+  - 13: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section13/section-13.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section13/) **(6/6)**
 </details>
