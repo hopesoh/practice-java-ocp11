@@ -63,3 +63,10 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 12: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section12/section-12.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section12/) **(3/5)**
   - 13: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section13/section-13.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course3/section13/) **(6/6)**
 </details>
+
+<details>
+  <summary><b>Certificação Java SE 7 Programmer I: Laços</b></summary>
+
+- [Aulas](https://cursos.alura.com.br/course/certificacao-java-loops)
+  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section1/)
+</details>
