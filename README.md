@@ -66,7 +66,11 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 <details>
   <summary><b>Certificação Java SE 7 Programmer I: Laços</b></summary>
 
+- [Certificado](https://cursos.alura.com.br/certificate/e297db76-f036-42a0-bda1-a8f2a4c960b4)
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-loops)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section1/) **(1/2)**
   - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section2/) **(4/6)**
+  - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section3/) **(4/5)**
+  - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section4/) **(5/5)**
+  - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course4/section5/) **(3/3)**
 </details>
