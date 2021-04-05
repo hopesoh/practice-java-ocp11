@@ -79,9 +79,11 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 <details>
   <summary><b>Certificação Java SE 7 Programmer I: Criando e usando Arrays</b></summary>
 
+- [Certificado](https://cursos.alura.com.br/certificate/5a31b0f2-fd1e-44de-a601-f40c441445f6)
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-usando-arrays)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/) 
   - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section2/) **(3/8)**
   - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section3/) **(2/4)**
   - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/)
+  - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section5/) **(6/9)**
 </details>
