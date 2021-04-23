@@ -87,3 +87,11 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/)
   - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section5/) **(6/9)**
 </details>
+
+<details>
+  <summary><b>Java Collections: Dominando Listas, Sets e Mapas</b></summary>
+
+- [Certificado](https://cursos.alura.com.br/certificate/36a8640b-0b81-4d35-a4dc-b2db0fbe417d)
+- [Aulas](https://cursos.alura.com.br/course/java-collections)
+  - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course6/)
+</details>
