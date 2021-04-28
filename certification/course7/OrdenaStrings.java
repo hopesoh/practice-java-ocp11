@@ -12,10 +12,12 @@ public class OrdenaStrings {
         Comparator<String> comparador = new ComparadorPorTamanho();
 //        Collections.sort(palavras, comparador);
 //        palavras.sort(comparador);
-        palavras.sort((s1,s2) -> Integer.compare(s1.length(), s2.length()));
+//        palavras.sort((s1,s2) -> Integer.compare(s1.length(), s2.length()));
+//        palavras.sort(Comparator.comparing(s -> s.length()));
+        palavras.sort(Comparator.comparing(String::length));
         System.out.println(palavras);
 
-        palavras.forEach(s -> System.out.println(s));
+        palavras.forEach(System.out::println);
 
     }
 }
