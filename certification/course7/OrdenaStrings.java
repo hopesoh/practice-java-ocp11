@@ -11,22 +11,14 @@ public class OrdenaStrings {
 
         Comparator<String> comparador = new ComparadorPorTamanho();
 //        Collections.sort(palavras, comparador);
-        palavras.sort(comparador);
+//        palavras.sort(comparador);
+        palavras.sort((s1,s2) -> Integer.compare(s1.length(), s2.length()));
         System.out.println(palavras);
 
-//        Consumer<String> consumidor = new ImprimeNaLinha();
         palavras.forEach(s -> System.out.println(s));
 
     }
 }
-
-//class ImprimeNaLinha implements Consumer<String> {
-//
-//    @Override
-//    public void accept(String s) {
-//        System.out.println(s);
-//    }
-//}
 
 class ComparadorPorTamanho implements Comparator<String> {
 
