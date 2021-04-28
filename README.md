@@ -95,3 +95,10 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Aulas](https://cursos.alura.com.br/course/java-collections)
   - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course6/)
 </details>
+
+<details>
+  <summary><b>Java moderno: Tire proveito dos novos recursos do Java 8</b></summary>
+
+- [Aulas](https://cursos.alura.com.br/course/java8-lambdas)
+  - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course7/)
+</details>
