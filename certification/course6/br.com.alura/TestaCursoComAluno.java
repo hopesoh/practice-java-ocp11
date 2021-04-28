@@ -1,3 +1,6 @@
+import java.lang.*;
+import java.util.*;
+
 public class TestaCursoComAluno {
     public static void main(String[] args) {
 
@@ -17,5 +20,22 @@ public class TestaCursoComAluno {
 
         System.out.println("Todos os alunos matriculados: ");
         javaColecoes.getAlunos().forEach(a -> System.out.println(a));
+
+        Set<Aluno> alunos = javaColecoes.getAlunos();
+        Iterator<Aluno> iterador = alunos.iterator();
+        while (iterador.hasNext()) {
+            Aluno proximo = iterador.next();
+            System.out.println(proximo);
+        }
+
+        System.out.println("O aluno " + a1.getNome() + " está matriculado?");
+        System.out.println(javaColecoes.estaMatriculado(a1));
+
+        Aluno sonia = new Aluno("Sonia Ribeiro", 123456);
+        System.out.println(javaColecoes.estaMatriculado(sonia));
+
+        System.out.println(sonia.equals(a1));
+        System.out.println(sonia == a1);
+
     }
 }

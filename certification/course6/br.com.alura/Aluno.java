@@ -33,4 +33,16 @@ public class Aluno {
                 ", numeroMatricula=" + numeroMatricula +
                 '}';
     }
+
+    public boolean equals(Object object) {
+        if (this == object) return true;
+        if (!(object instanceof Aluno)) return false;
+        if (!super.equals(object)) return false;
+        Aluno aluno = (Aluno) object;
+        return getNumeroMatricula() == aluno.getNumeroMatricula() && java.util.Objects.equals(getNome(), aluno.getNome());
+    }
+
+    public int hashCode() {
+        return java.util.Objects.hash(super.hashCode(), getNome(), getNumeroMatricula());
+    }
 }
