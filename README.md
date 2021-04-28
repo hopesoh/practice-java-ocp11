@@ -99,6 +99,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 <details>
   <summary><b>Java moderno: Tire proveito dos novos recursos do Java 8</b></summary>
 
+- [Certificado](https://cursos.alura.com.br/certificate/7bd224e2-7cc1-4128-84af-87ea98a04725)
 - [Aulas](https://cursos.alura.com.br/course/java8-lambdas)
   - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course7/)
 </details>
