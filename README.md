@@ -5,6 +5,8 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Celebrate and Save -- Free Java Training and $25 Certification Exams](https://education.oracle.com/pt_BR/java-25th-anniversary-discount-redemption)
 - [Enthuware](https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocp-java-11-exam-i-1z0-815)
 - [Whizlabs](https://www.whizlabs.com/ocpjd-java-se-11-programmer-i/)
+- [PluralSight](https://www.pluralsight.com/search?q=Java%20SE%2011%20Developer%20Certification%201Z0-819&categories=course)
+- [Oracle Education](https://education.oracle.com/learning-explorer)
 - [Formação Certificação Java da Alura](https://cursos.alura.com.br/formacao-certificacao-java)
 - [Cards e Quizes](http://app.efficientlearning.com/my-account)
 - [Oracle](https://education.oracle.com/product/pexam_1Z0-819)
@@ -23,6 +25,11 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 
 ## Cursos
 
+- <h3>Alura</h3>
+<details>
+
+<summary>Resumos, certificados e códigos</summary>
+<br/>
 <details>
     <summary><b>Certificação Java SE 7 Programmer I: O básico de Java</b></summary>
 
@@ -81,7 +88,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 
 - [Certificado](https://cursos.alura.com.br/certificate/5a31b0f2-fd1e-44de-a601-f40c441445f6)
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-usando-arrays)
-  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/) 
+  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section1/)
   - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section2/) **(3/8)**
   - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section3/) **(2/4)**
   - 4: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/section-4.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course5/section4/)
@@ -102,4 +109,6 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Certificado](https://cursos.alura.com.br/certificate/7bd224e2-7cc1-4128-84af-87ea98a04725)
 - [Aulas](https://cursos.alura.com.br/course/java8-lambdas)
   - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course7/)
+</details>
+
 </details>
