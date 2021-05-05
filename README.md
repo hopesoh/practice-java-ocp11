@@ -115,7 +115,8 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   <summary><b>Certificação Java SE 7 Programmer I: Métodos e encapsulamento</b></summary>
 
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-metodos-encapsulamento)
-  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/)
+  - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/) **(2/4)**
+  - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section2/) **(3/5)**
 </details>
 
 </details>
