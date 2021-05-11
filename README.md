@@ -114,6 +114,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 <details>
   <summary><b>Certificação Java SE 7 Programmer I: Métodos e encapsulamento</b></summary>
 
+- [Certificado](https://cursos.alura.com.br/certificate/8cc0f16b-8b4c-4894-9413-da40394b185b)
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-metodos-encapsulamento)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section1/) **(2/4)**
   - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section2/) **(3/5)**
@@ -122,6 +123,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section5/) **(3/5)**
   - 6: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section6/section-6.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section6/) **(5/7)**
   - 7: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section7/section-7.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section7/) **(2/5)**
+  - 8: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course8/section8/) **(1/2)**
 </details>
 
 </details>
