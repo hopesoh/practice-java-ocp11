@@ -4,3 +4,5 @@ _Encapsular_: Esconder como as coisas são feitas, somente expor uma interface d
 
 Deixamos os métodos públicos de acesso e as variáveis privadas para ninguém acessar.
 
+_Shadowing:_
+![img.png](img.png)
