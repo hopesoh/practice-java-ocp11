@@ -131,6 +131,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-heranca)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course9/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course9/section1/) **(6/8)**
+  - 2: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course9/section2/section-2.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course9/section2/) **(5/9)**
 </details>
 
 </details>
