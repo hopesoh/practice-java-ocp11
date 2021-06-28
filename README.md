@@ -144,7 +144,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-excecoes)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section1/) **(1/1)**
-  - 2: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section2/)
+  - 2: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section2/) 
 </details>
 
 </details>
