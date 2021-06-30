@@ -142,6 +142,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 <details>
   <summary><b>Certificação Java SE 7 Programmer I: Lidando com exceções</b></summary>
 
+- [Certificado](https://cursos.alura.com.br/certificate/6f438649-3da0-495e-bd01-714fe70c2d01)
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-excecoes)
   - 1: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section1/section-1.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section1/) **(1/1)**
   - 2: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section2/) 
