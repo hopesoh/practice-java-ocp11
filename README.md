@@ -147,7 +147,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 2: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section2/) 
   - 3: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section3/section-3.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section3/) **(2/3)**
   - 4: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section4/) **(7/11)**
-
+  - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section5/) **(1/2)**
 </details>
 
 </details>
