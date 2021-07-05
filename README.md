@@ -8,6 +8,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [PluralSight](https://www.pluralsight.com/search?q=Java%20SE%2011%20Developer%20Certification%201Z0-819&categories=course)
 - [Oracle Education](https://education.oracle.com/learning-explorer)
 - [Formação Certificação Java da Alura](https://cursos.alura.com.br/formacao-certificacao-java)
+- [Plano de estudos na Alura](https://cursos.alura.com.br/practice-java-ocp-javase-11-developer-p77226)
 - [Cards e Quizes](http://app.efficientlearning.com/my-account)
 - [Oracle](https://education.oracle.com/product/pexam_1Z0-819)
 - [Pearson](https://home.pearsonvue.com/)
