@@ -153,3 +153,29 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 </details>
 
 </details>
+
+- <h3>Oracle University</h3>
+<details>
+
+<summary>Conteúdos e badges</summary>
+<br/>
+
+<details>
+  <summary><b>Overview</b></summary>
+
+- [Aulas](https://learn.oracle.com/ols/module/overview/40805/79727)
+</details>
+
+<details>
+  <summary><b>Java Explorer</b></summary>
+
+- Badge
+  
+  I just completed this learning path in my Oracle Learning Subscription: "Java Explorer" https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726 #LearnOracle #OracleUniversity #Oracle via @Oracle_Edu
+  
+![img_1.png](img_1.png)
+
+- [Aulas](https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726)
+</details>
+
+</details>
