@@ -152,6 +152,13 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 5: [Resumo](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section5/section-5.md) | [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course10/section5/) **(1/2)**
 </details>
 
+<details>
+  <summary><b>Certificação Java SE 8 Programmer I: Conteúdo além da prova</b></summary>
+
+- [Certificado](https://cursos.alura.com.br/certificate/823e12e1-0514-4e2c-ab54-4cbe5ac9b7c3)
+- [Aulas](https://cursos.alura.com.br/course/certificacao-java-lambdas-api-de-datas)
+</details>
+
 </details>
 
 - <h3>Oracle University</h3>
