@@ -1,6 +1,8 @@
 # Practice: Java - Oracle Certified Professional Java SE 11 Developer
 Parte do meu estudo diário (ou quase) para a certificação Java.
 
+### [1Z0-811: Oracle Certified Foundations Associate, Java (03/09/2021)](https://www.credly.com/badges/22217929-7b40-49d8-bf5d-299e5decd51a)
+
 ## Links úteis
 - [Celebrate and Save -- Free Java Training and $25 Certification Exams](https://education.oracle.com/pt_BR/java-25th-anniversary-discount-redemption)
 - [Enthuware](https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocp-java-11-exam-i-1z0-815)
@@ -9,6 +11,7 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Oracle Education](https://education.oracle.com/learning-explorer)
 - [Formação Certificação Java da Alura](https://cursos.alura.com.br/formacao-certificacao-java)
 - [Plano de estudos na Alura](https://cursos.alura.com.br/practice-java-ocp-javase-11-developer-p77226)
+- [Plano de estudos na Alura - 2](https://cursos.alura.com.br/practice-java-oracle-certified-professional-java-se-11-developer-parte-2-sonia-ribeiro-1630948608980-p215937)
 - [Cards e Quizes](http://app.efficientlearning.com/my-account)
 - [Oracle](https://education.oracle.com/product/pexam_1Z0-819)
 - [Pearson](https://home.pearsonvue.com/)
