@@ -163,6 +163,18 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
 - [Aulas](https://cursos.alura.com.br/course/certificacao-java-lambdas-api-de-datas)
 </details>
 
+<details>
+  <summary><b>Threads em Java 1: programação paralela</b></summary>
+
+- [Certificado](https://cursos.alura.com.br/certificate/5c960e04-c4a0-495f-96ac-fa60b318b46f)
+- [Aulas](https://cursos.alura.com.br/course/threads-java-1)
+  - 1: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section1/) 
+  - 2: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section2/)
+  - 3 e 5: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section3/) 
+  - 4 e 6: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section4/) 
+  - 7: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section7/) 
+</details>
+
 </details>
 
 - <h3>Oracle University</h3>
