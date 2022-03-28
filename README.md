@@ -175,6 +175,14 @@ Parte do meu estudo diário (ou quase) para a certificação Java.
   - 7: [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course11/section7/) 
 </details>
 
+<details>
+  <summary><b>Threads em Java 2: programação concorrente avançada</b></summary>
+
+- [Certificado](https://cursos.alura.com.br/certificate/d24acd5f-4fe7-44d0-b791-b824775acd41)
+- [Aulas](https://cursos.alura.com.br/course/threads-java-2)
+  - [Código](https://github.com/hopesoh/practice-java-ocp11/blob/master/certification/course12)
+</details>
+
 </details>
 
 - <h3>Oracle University</h3>
